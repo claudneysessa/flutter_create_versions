@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "async",
-      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dartlang.org/async-2.5.0",
+      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dartlang.org/async-2.6.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -87,7 +87,7 @@
     },
     {
       "name": "source_span",
-      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dartlang.org/source_span-1.8.0",
+      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dartlang.org/source_span-1.8.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -117,7 +117,7 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dartlang.org/test_api-0.2.19",
+      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dartlang.org/test_api-0.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -137,10 +137,10 @@
       "name": "flutter_create_versions",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-11-19T13:21:06.023324Z",
+  "generated": "2024-11-19T13:21:13.366969Z",
   "generator": "pub",
-  "generatorVersion": "2.12.3"
+  "generatorVersion": "2.13.0"
 }
