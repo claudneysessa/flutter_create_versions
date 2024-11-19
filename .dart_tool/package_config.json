@@ -47,7 +47,7 @@
       "name": "flutter",
       "rootUri": "file:///C:/Users/claud/fvm/default/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "flutter_lints",
@@ -59,25 +59,25 @@
       "name": "flutter_test",
       "rootUri": "file:///C:/Users/claud/fvm/default/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "leak_tracker",
-      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/leak_tracker-10.0.0",
+      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/leak_tracker-10.0.4",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker_flutter_testing",
-      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/leak_tracker_flutter_testing-2.0.1",
+      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.3",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker_testing",
-      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/leak_tracker_testing-2.0.1",
+      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/leak_tracker_testing-3.0.1",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "lints",
@@ -99,7 +99,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/meta-1.11.0",
+      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/meta-1.12.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -147,7 +147,7 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/test_api-0.6.1",
+      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/test_api-0.7.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -159,18 +159,21 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/vm_service-13.0.0",
+      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/vm_service-14.2.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "flutter_create_versions",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-11-19T13:34:42.152817Z",
+  "generated": "2024-11-19T13:34:49.702469Z",
   "generator": "pub",
-  "generatorVersion": "3.3.4"
+  "generatorVersion": "3.4.0",
+  "flutterRoot": "file:///C:/Users/claud/fvm/default",
+  "flutterVersion": "3.22.0",
+  "pubCache": "file:///C:/Users/claud/.puro/shared/pub_cache"
 }
